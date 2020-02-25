@@ -4,3 +4,4 @@ Conexão com Banco - Hibernate/JPA
 
 Backend - Spring Boot/MVC
 
+frontend - HTML/CSS | JavaScript | Angular (ou VUE.JS)
