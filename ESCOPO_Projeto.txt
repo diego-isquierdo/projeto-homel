@@ -1,0 +1,6 @@
+Banco - MySQL
+
+Conexão com Banco - Hibernate/JPA
+
+Backend - Spring Boot/MVC
+
